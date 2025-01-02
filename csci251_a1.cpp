@@ -5,10 +5,11 @@ using namespace std;
 
 int main(){
 
-    string x;
+    string config;
 
+    //Ask user for config file input
     cout << "Please enter config filename : ";
-    cin >> x;
+    cin >> config;
     
     return 0;
 }
